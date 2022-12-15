@@ -1,0 +1,30 @@
+quiz 3
+max min fair allocation, 
+Demands{1, 2, 5, 10}
+Capaacity: 20
+20/4 =5
+{5, 5, 5, 5}
+excess of seven so answer is 
+1:1
+2:2
+3:5
+4:12
+
+
+Which DNS record is used for a referral?
+Mx
+A
+AAAA
+NS   only NS
+PTR
+
+
+PTR Lookup IP address 130.207.97.11, what is the corresponding in_addr.arpa domain name?
+130.207.97.11
+130.207.97.11.in-addr.arpa
+in-addr.arpa.130.207.97.11
+11.97.207.130.in-addr.arpa   This One
+
+
+
+

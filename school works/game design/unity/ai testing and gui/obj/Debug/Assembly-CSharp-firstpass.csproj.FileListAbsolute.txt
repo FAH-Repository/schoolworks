@@ -1,0 +1,43 @@
+E:\unity\scripts and own stuff\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\unity\scripts and own stuff\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\unity\scripts and own stuff\Temp\bin\Debug\Mono.Cecil.dll
+E:\unity\scripts and own stuff\Temp\bin\Debug\UnityEditor.dll
+E:\unity\scripts and own stuff\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\unity\scripts and own stuff\Temp\bin\Debug\UnityEngine.dll
+E:\unity\scripts and own stuff\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\unity\scripts and own stuff\Temp\bin\Debug\UnityEngine.UI.dll
+E:\unity\scripts and own stuff\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\unity\scripts and own stuff\Temp\bin\Debug\Unity.DataContract.dll
+E:\unity\scripts and own stuff\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\unity\scripts and own stuff\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\unity\scripts and own stuff\Temp\bin\Debug\Unity.CecilTools.dll
+E:\unity\scripts and own stuff\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\unity\scripts and own stuff\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\unity\scripts and own stuff\Temp\bin\Debug\UnityEngine.xml
+E:\unity\scripts and own stuff\Temp\bin\Debug\UnityEditor.xml
+E:\unity\scripts and own stuff\Temp\bin\Debug\UnityEngine.UI.xml
+E:\unity\scripts and own stuff\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\unity\scripts and own stuff\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\unity\scripts and own stuff\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\unity\scripts and own stuff\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\game design\unity\ai testing and gui\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\game design\unity\ai testing and gui\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\game design\unity\ai testing and gui\Temp\bin\Debug\Mono.Cecil.dll
+E:\game design\unity\ai testing and gui\Temp\bin\Debug\UnityEditor.dll
+E:\game design\unity\ai testing and gui\Temp\bin\Debug\UnityEngine.dll
+E:\game design\unity\ai testing and gui\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\game design\unity\ai testing and gui\Temp\bin\Debug\UnityEngine.UI.dll
+E:\game design\unity\ai testing and gui\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\game design\unity\ai testing and gui\Temp\bin\Debug\Unity.DataContract.dll
+E:\game design\unity\ai testing and gui\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\game design\unity\ai testing and gui\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\game design\unity\ai testing and gui\Temp\bin\Debug\Unity.CecilTools.dll
+E:\game design\unity\ai testing and gui\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\game design\unity\ai testing and gui\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\game design\unity\ai testing and gui\Temp\bin\Debug\UnityEngine.xml
+E:\game design\unity\ai testing and gui\Temp\bin\Debug\UnityEditor.xml
+E:\game design\unity\ai testing and gui\Temp\bin\Debug\UnityEngine.UI.xml
+E:\game design\unity\ai testing and gui\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\game design\unity\ai testing and gui\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\game design\unity\ai testing and gui\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\game design\unity\ai testing and gui\obj\Debug\Assembly-CSharp-firstpass.pdb

@@ -1,0 +1,37 @@
+quiz 1 (wk 2)
+packet switching vs circuit switching
+variable delay?	PS
+busy signals? CS
+sharing of network resources? PS
+dedicated resources between sender and receiver? CS
+
+Design goals from David D. Clark's paper concerning DARPA
+security? N
+heterogeneity? Y
+interconnection? Y
+sharing? Y
+mobility? N
+
+What are the queries and response in ARP
+
+1 q: broadcast asking about IP
+  r: unicast with mac adress
+
+2 q:unicast asking about IP
+  r: broadcast with mac adress
+
+3 q:broadcast asking about mac adress
+  r: unicast with IP
+
+answer is 1
+
+In a switch 
+D destined to b fill out the table
+ost  port
+D     4       
+
+
+                switch   
+       
+
+         a         b       c          d<-DST:B

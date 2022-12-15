@@ -1,0 +1,60 @@
+quiz 4
+Which of the following are examples of interdomain routing?
+Peering between two ISPs  			 	yes
+Peering between a university network and its ISP	yes
+Peering at an internet exchange point			yes
+routing in a datacenter
+routing across multiple datacenters			yes
+
+
+how can a source router adjust paths?
+dropping packets to cause TCP backoff
+alternating between forwarding table entries to the same destination    This one
+sending alerts to incoming senders as the route changes
+
+where does datacenter(figure) structure constrain expansion?
+top level switches
+
+what are some causes of congestion collapse?
+faulty router software
+spurious retransmissions of packets in flight		This one
+packets traveling to far
+undelivered packets					This one too
+
+
+round trip time of 100ms
+packet: 1kb
+window size: 10 packets
+what is the sendin rate in kbps?
+800kbps
+
+What are some solutions to the TCP "Incast" problem?
+smaller packets
+finer grainularity timers             this one
+fewer acknowledgments		      this one too
+more senders
+
+
+with speech taking 8000 samples per second
+8 bits per sample
+find the smapling rate in kbps:  64kbps
+
+
+with an mp3 taking 10000 samples per second
+16 bits per sample
+find the smapling rate in kbps:  160kbps
+
+
+Which pathologies can streaming audio/video tolerate?
+loss			small amounts of data loss are ok
+delay			Some delay at the beggining is fine
+variation in delay(jitter)
+
+
+Commonly used QoS for streaming audio/video?
+making packets		This one
+scheduling		This one too
+admission control
+fixed allocations
+
+

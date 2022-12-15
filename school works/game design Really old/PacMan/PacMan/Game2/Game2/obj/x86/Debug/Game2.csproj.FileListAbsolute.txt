@@ -1,0 +1,371 @@
+C:\Users\vgdstu\Documents\Visual Studio 2015\Projects\Game2\Game2\obj\x86\Debug\Game2.csprojResolveAssemblyReference.cache
+C:\Users\Baby Misha\Downloads\Game2\Game2\obj\x86\Debug\Game2.csprojResolveAssemblyReference.cache
+G:\Game2\Game2\obj\x86\Debug\Game2.csprojResolveAssemblyReference.cache
+G:\Game2\Game2\bin\Windows\Debug\Game2.exe
+G:\Game2\Game2\bin\Windows\Debug\Game2.pdb
+G:\Game2\Game2\bin\Windows\Debug\MonoGame.Framework.dll
+G:\Game2\Game2\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+G:\Game2\Game2\bin\Windows\Debug\SharpDX.dll
+G:\Game2\Game2\bin\Windows\Debug\SharpDX.XAudio2.dll
+G:\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D11.dll
+G:\Game2\Game2\bin\Windows\Debug\SharpDX.DXGI.dll
+G:\Game2\Game2\bin\Windows\Debug\SharpDX.Direct2D1.dll
+G:\Game2\Game2\bin\Windows\Debug\SharpDX.XInput.dll
+G:\Game2\Game2\bin\Windows\Debug\SharpDX.RawInput.dll
+G:\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D9.dll
+G:\Game2\Game2\bin\Windows\Debug\MonoGame.Framework.xml
+G:\Game2\Game2\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+G:\Game2\Game2\bin\Windows\Debug\SharpDX.xml
+G:\Game2\Game2\bin\Windows\Debug\SharpDX.XAudio2.xml
+G:\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D11.xml
+G:\Game2\Game2\bin\Windows\Debug\SharpDX.DXGI.xml
+G:\Game2\Game2\bin\Windows\Debug\SharpDX.Direct2D1.xml
+G:\Game2\Game2\bin\Windows\Debug\SharpDX.XInput.xml
+G:\Game2\Game2\bin\Windows\Debug\SharpDX.RawInput.xml
+G:\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D9.xml
+G:\Game2\Game2\obj\x86\Debug\Game2.exe
+G:\Game2\Game2\obj\x86\Debug\Game2.pdb
+C:\Users\Baby Misha\Downloads\Game2\Game2\obj\x86\Debug\Game2.exe
+C:\Users\Baby Misha\Downloads\Game2\Game2\obj\x86\Debug\Game2.pdb
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\Game2.exe
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\Game2.pdb
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\SharpDX.dll
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\SharpDX.xml
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\Content\Images\Apple5x5.png
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\Content\Images\CharacterSprite30x30.png
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\Content\Images\FloorTile30x30.png
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\Content\Images\GoldenApple7x7.png
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\Content\Images\Particle3x3.png
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\Content\Images\WallTile30x30.png
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\Icon.ico
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\Content\Images\MapBackground30x30.png
+C:\Users\Baby Misha\Downloads\Game2\Game2\bin\Windows\Debug\Content\Images\EnemySprite30x30.png
+E:\Game2\Game2\obj\x86\Debug\Game2.exe
+E:\Game2\Game2\obj\x86\Debug\Game2.pdb
+E:\Game2\Game2\bin\Windows\Debug\Content\Images\Apple5x5.png
+E:\Game2\Game2\bin\Windows\Debug\Content\Images\EnemySprite30x30.png
+E:\Game2\Game2\bin\Windows\Debug\Content\Images\CharacterSprite30x30.png
+E:\Game2\Game2\bin\Windows\Debug\Content\Images\MapBackground30x30.png
+E:\Game2\Game2\bin\Windows\Debug\Content\Images\FloorTile30x30.png
+E:\Game2\Game2\bin\Windows\Debug\Content\Images\GoldenApple7x7.png
+E:\Game2\Game2\bin\Windows\Debug\Content\Images\Particle3x3.png
+E:\Game2\Game2\bin\Windows\Debug\Content\Images\WallTile30x30.png
+E:\Game2\Game2\bin\Windows\Debug\Icon.ico
+E:\Game2\Game2\bin\Windows\Debug\Game2.exe
+E:\Game2\Game2\bin\Windows\Debug\Game2.pdb
+E:\Game2\Game2\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Game2\Game2\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Game2\Game2\bin\Windows\Debug\SharpDX.dll
+E:\Game2\Game2\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Game2\Game2\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Game2\Game2\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Game2\Game2\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Game2\Game2\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Game2\Game2\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Game2\Game2\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Game2\Game2\bin\Windows\Debug\SharpDX.xml
+E:\Game2\Game2\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Game2\Game2\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Game2\Game2\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Game2\Game2\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Game2\Game2\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Game2\Game2\obj\x86\Debug\Game2.csprojResolveAssemblyReference.cache
+F:\Game2\Game2\obj\x86\Debug\Game2.exe
+F:\Game2\Game2\obj\x86\Debug\Game2.pdb
+F:\Game2\Game2\bin\Windows\Debug\Content\Images\Apple5x5.png
+F:\Game2\Game2\bin\Windows\Debug\Content\Images\EnemySprite30x30.png
+F:\Game2\Game2\bin\Windows\Debug\Content\Images\CharacterSprite30x30.png
+F:\Game2\Game2\bin\Windows\Debug\Content\Images\MapBackground30x30.png
+F:\Game2\Game2\bin\Windows\Debug\Content\Images\FloorTile30x30.png
+F:\Game2\Game2\bin\Windows\Debug\Content\Images\GoldenApple7x7.png
+F:\Game2\Game2\bin\Windows\Debug\Content\Images\Particle3x3.png
+F:\Game2\Game2\bin\Windows\Debug\Content\Images\WallTile30x30.png
+F:\Game2\Game2\bin\Windows\Debug\Icon.ico
+F:\Game2\Game2\bin\Windows\Debug\Game2.exe
+F:\Game2\Game2\bin\Windows\Debug\Game2.pdb
+F:\Game2\Game2\obj\x86\Debug\Game2.csprojResolveAssemblyReference.cache
+F:\Game2\Game2\bin\Windows\Debug\MonoGame.Framework.dll
+F:\Game2\Game2\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\Game2\Game2\bin\Windows\Debug\SharpDX.dll
+F:\Game2\Game2\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\Game2\Game2\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\Game2\Game2\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\Game2\Game2\bin\Windows\Debug\SharpDX.XInput.dll
+F:\Game2\Game2\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\Game2\Game2\bin\Windows\Debug\MonoGame.Framework.xml
+F:\Game2\Game2\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\Game2\Game2\bin\Windows\Debug\SharpDX.xml
+F:\Game2\Game2\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\Game2\Game2\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\Game2\Game2\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\Game2\Game2\bin\Windows\Debug\SharpDX.XInput.xml
+F:\Game2\Game2\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D9.xml
+G:\Game2\Game2\bin\Windows\Debug\Content\Images\Apple5x5.png
+G:\Game2\Game2\bin\Windows\Debug\Content\Images\EnemySprite30x30.png
+G:\Game2\Game2\bin\Windows\Debug\Content\Images\CharacterSprite30x30.png
+G:\Game2\Game2\bin\Windows\Debug\Content\Images\MapBackground30x30.png
+G:\Game2\Game2\bin\Windows\Debug\Content\Images\FloorTile30x30.png
+G:\Game2\Game2\bin\Windows\Debug\Content\Images\GoldenApple7x7.png
+G:\Game2\Game2\bin\Windows\Debug\Content\Images\Particle3x3.png
+G:\Game2\Game2\bin\Windows\Debug\Content\Images\WallTile30x30.png
+G:\Game2\Game2\bin\Windows\Debug\Icon.ico
+G:\Game2\Game2\bin\Windows\Debug\Content\font\score.xnb
+G:\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\Intro.wav
+G:\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PelletEat2.wav
+G:\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\Siren.wav
+G:\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PelletEat1.wav
+G:\Game2\Game2\bin\Windows\Debug\Content\GameSounds\Invincible.xnb
+G:\Game2\Game2\bin\Windows\Debug\Content\GameSounds\PelletEat1.xnb
+G:\Game2\Game2\bin\Windows\Debug\Content\GameSounds\PelletEat2.xnb
+G:\Game2\Game2\bin\Windows\Debug\Content\GameSounds\Siren.xnb
+G:\Game2\Game2\bin\Windows\Debug\Content\GameSounds\Intro.xnb
+G:\Game2\Game2\bin\Windows\Debug\Content\GameSounds\PacmanEaten.xnb
+G:\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\Intro.xnb
+G:\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\MonsterEaten.xnb
+G:\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PacmanEaten.xnb
+G:\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PelletEat1.xnb
+G:\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PelletEat2.xnb
+G:\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\Siren.xnb
+G:\Game2\Game2\bin\Windows\Debug\Content\score.xnb
+G:\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\MonsterEaten.wav
+G:\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PacmanEaten.wav
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\obj\x86\Debug\Game2.exe
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\obj\x86\Debug\Game2.pdb
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\GameSounds\Intro.xnb
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\GameSounds\Invincible.xnb
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\GameSounds\PacmanEaten.xnb
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\GameSounds\PelletEat1.xnb
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\GameSounds\PelletEat2.xnb
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\GameSounds\Siren.xnb
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\Intro.xnb
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\MonsterEaten.xnb
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PacmanEaten.xnb
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PelletEat1.xnb
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PelletEat2.xnb
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\Siren.xnb
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\score.xnb
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\MonsterEaten.wav
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\Images\Apple5x5.png
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\Images\EnemySprite30x30.png
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\Images\CharacterSprite30x30.png
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\Images\MapBackground30x30.png
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\Images\FloorTile30x30.png
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\Images\GoldenApple7x7.png
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\Images\Particle3x3.png
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\Images\WallTile30x30.png
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\Intro.wav
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PacmanEaten.wav
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PelletEat1.wav
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PelletEat2.wav
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\Siren.wav
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Icon.ico
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Content\font\score.xnb
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Game2.exe
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\Game2.pdb
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\SharpDX.dll
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\SharpDX.xml
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\moseley_tristen\Downloads\StarMan (2)\Game2\Game2\obj\x86\Debug\Game2.csprojResolveAssemblyReference.cache
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSounds\Intro.xnb
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSounds\Invincible.xnb
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSounds\PacmanEaten.xnb
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSounds\PelletEat1.xnb
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSounds\PelletEat2.xnb
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSounds\Siren.xnb
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\Intro.xnb
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\MonsterEaten.xnb
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PacmanEaten.xnb
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PelletEat1.xnb
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PelletEat2.xnb
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\Siren.xnb
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\score.xnb
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\MonsterEaten.wav
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\Images\Apple5x5.png
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\Images\EnemySprite30x30.png
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\Images\CharacterSprite30x30.png
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\Images\MapBackground30x30.png
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\Images\FloorTile30x30.png
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\Images\GoldenApple7x7.png
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\Images\Particle3x3.png
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\Images\WallTile30x30.png
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\Intro.wav
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PacmanEaten.wav
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PelletEat1.wav
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PelletEat2.wav
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\Siren.wav
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Icon.ico
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Content\font\score.xnb
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Game2.exe
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\Game2.pdb
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.dll
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.xml
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\obj\x86\Debug\Game2.csprojResolveAssemblyReference.cache
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\obj\x86\Debug\Game2.exe
+C:\Users\moseley_tristen\Downloads\WeebMan\WeebMan\Game2\Game2\obj\x86\Debug\Game2.pdb
+E:\WeebMan\Game2\Game2\obj\x86\Debug\Game2.exe
+E:\WeebMan\Game2\Game2\obj\x86\Debug\Game2.pdb
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSounds\Intro.xnb
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSounds\Invincible.xnb
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSounds\PacmanEaten.xnb
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSounds\PelletEat1.xnb
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSounds\PelletEat2.xnb
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSounds\Siren.xnb
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\Intro.xnb
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\MonsterEaten.xnb
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PacmanEaten.xnb
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PelletEat1.xnb
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PelletEat2.xnb
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\Siren.xnb
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\score.xnb
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\MonsterEaten.wav
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\Images\EnemySprite30x30.png
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\Images\MapBackground30x30.png
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\Images\FloorTile30x30.png
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\Images\WallTile30x30.png
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\Intro.wav
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PacmanEaten.wav
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PelletEat1.wav
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PelletEat2.wav
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\Siren.wav
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Icon.ico
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\font\score.xnb
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Game2.exe
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Game2.pdb
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\MonoGame.Framework.dll
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.dll
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.XInput.dll
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\MonoGame.Framework.xml
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.xml
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.XInput.xml
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\WeebMan\Game2\Game2\obj\x86\Debug\Game2.csprojResolveAssemblyReference.cache
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\Images\Food.png
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\Images\charUp.png
+E:\WeebMan\Game2\Game2\bin\Windows\Debug\Content\Images\SuperFood.png
+E:\PacMan\PacMan\Game2\Game2\obj\x86\Debug\Game2.exe
+E:\PacMan\PacMan\Game2\Game2\obj\x86\Debug\Game2.pdb
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\GameSounds\Intro.xnb
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\GameSounds\Invincible.xnb
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\GameSounds\PacmanEaten.xnb
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\GameSounds\PelletEat1.xnb
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\GameSounds\PelletEat2.xnb
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\GameSounds\Siren.xnb
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\Intro.xnb
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\MonsterEaten.xnb
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PacmanEaten.xnb
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PelletEat1.xnb
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PelletEat2.xnb
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\Siren.xnb
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\score.xnb
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\MonsterEaten.wav
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\Images\charUp.png
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\Images\EnemySprite30x30.png
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\Images\Food.png
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\Images\MapBackground30x30.png
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\Images\FloorTile30x30.png
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\Images\SuperFood.png
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\Images\WallTile30x30.png
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\Intro.wav
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PacmanEaten.wav
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PelletEat1.wav
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\PelletEat2.wav
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\GameSoundWav\Siren.wav
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Icon.ico
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Content\font\score.xnb
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Game2.exe
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\Game2.pdb
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\MonoGame.Framework.dll
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\SharpDX.dll
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\SharpDX.XInput.dll
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\MonoGame.Framework.xml
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\SharpDX.xml
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\SharpDX.XInput.xml
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\PacMan\PacMan\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\PacMan\PacMan\Game2\Game2\obj\x86\Debug\Game2.csprojResolveAssemblyReference.cache

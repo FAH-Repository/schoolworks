@@ -1,0 +1,21 @@
+quiz 2
+Routing within an AS?
+Interdomian routing or intradomain? Intra
+
+which protocol interval routes to external destinations?
+IGP  no
+iBGP yes
+eBGP no
+
+Class A address space. Net ID: 8bits
+how many hostts can a single class A network support?
+2^24
+
+How many IP addresses in a /22 prefix?
+2^10
+
+In a direct trie how many memery accesses required per lookup?
+level 1  16bit
+level 2  8 bit
+level3   8 bit
+the answer is 3	

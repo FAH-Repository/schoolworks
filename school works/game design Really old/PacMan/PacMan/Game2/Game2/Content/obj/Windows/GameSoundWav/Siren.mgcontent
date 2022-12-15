@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>E:/PacMan/PacMan/Game2/Game2/Content/GameSoundWav/Siren.wav</SourceFile>
+  <SourceTime>2016-05-03T09:42:32-07:00</SourceTime>
+  <DestFile>E:/PacMan/PacMan/Game2/Game2/Content/bin/Windows/GameSoundWav/Siren.xnb</DestFile>
+  <DestTime>2016-06-13T08:18:28-07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2015-04-29T10:14:44-07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2015-04-29T10:14:44-07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,56 @@
+quiz 7
+
+which of the following makes the internet's design fundamentaly insecure?
+on by default							yes
+IPs are easy to guess						no
+attacks lok like normal traffic					yes
+or that the internet is a federation of independant networks	yes
+
+
+A denial of service is an attack on what?
+availablity     This one, obvious by the name of the attack
+confidentiality
+authenticity
+integrity
+
+
+route hijacks are an attack on what in the control plane?
+session		no
+path 		no
+origin		This, makes the AS advertising prefix not the owner
+
+which aspects of DNS make it vulnerable to attacks?
+queries are UDP					yes
+DNS names are human readable			no
+no authentication for query responses		yes
+DNS is distributed over many organizations	no
+
+
+why does 0x20 encoding make DNS more secure?
+DNS names are case sensative
+additional entropy		Yes
+efficient encryption
+additional hierarchy
+
+
+differences between worms and viruses?
+worms do not have destructive payloads
+viruses only infect windows machines
+viruses can spread faster
+worms can be spread automatically  This one
+
+
+what are the three steps in a worms lifecycle?
+infect vulnerable host  	2nd
+patching the hosts vulnerabilities doesnt always do this but can in some instances
+scanning for vulnerable hosts    1st
+remaining undetectable		 3rd
+
+
+what allowed the slammert worm to spread so quickly?
+TCP/reliable transport
+UDP/ connectionless transport        This one
+infected many OS types
+could fit in a single packet	     And this one
+
+

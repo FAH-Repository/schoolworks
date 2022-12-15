@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/PacMan/PacMan/Game2/Game2/Content/score.spritefont</File>
+    <File>E:/PacMan/PacMan/Game2/Game2/Content/GameSoundWav/Siren.wav</File>
+    <File>E:/PacMan/PacMan/Game2/Game2/Content/GameSoundWav/PelletEat2.wav</File>
+    <File>E:/PacMan/PacMan/Game2/Game2/Content/GameSoundWav/PelletEat1.wav</File>
+    <File>E:/PacMan/PacMan/Game2/Game2/Content/GameSoundWav/PacmanEaten.wav</File>
+    <File>E:/PacMan/PacMan/Game2/Game2/Content/GameSoundWav/MonsterEaten.wav</File>
+    <File>E:/PacMan/PacMan/Game2/Game2/Content/GameSoundWav/Intro.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

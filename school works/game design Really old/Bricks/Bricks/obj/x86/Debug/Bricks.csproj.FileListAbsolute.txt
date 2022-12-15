@@ -1,0 +1,90 @@
+E:\SnoIsleVGD\Q3\Bricks\Bricks\obj\x86\Debug\Bricks.csprojResolveAssemblyReference.cache
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\Content\Images\background.png
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\Content\Images\ball.png
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\Content\Images\brick.png
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\Content\Images\paddle.png
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\Bricks.exe
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\Bricks.pdb
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\MonoGame.Framework.dll
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\SharpDX.dll
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\SharpDX.XInput.dll
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\MonoGame.Framework.xml
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\SharpDX.xml
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\SharpDX.XInput.xml
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\SnoIsleVGD\Q3\Bricks\Bricks\obj\x86\Debug\Bricks.exe
+E:\SnoIsleVGD\Q3\Bricks\Bricks\obj\x86\Debug\Bricks.pdb
+E:\SnoIsleVGD\Q3\Bricks\Bricks\bin\Windows\Debug\Content\Fonts\pongFont.xnb
+E:\Bricks\Bricks\obj\x86\Debug\Bricks.exe
+E:\Bricks\Bricks\obj\x86\Debug\Bricks.pdb
+E:\Bricks\Bricks\bin\Windows\Debug\Content\Images\background.png
+E:\Bricks\Bricks\bin\Windows\Debug\Content\Images\ball.png
+E:\Bricks\Bricks\bin\Windows\Debug\Content\Images\brick.png
+E:\Bricks\Bricks\bin\Windows\Debug\Content\Images\paddle.png
+E:\Bricks\Bricks\bin\Windows\Debug\Content\Fonts\pongFont.xnb
+E:\Bricks\Bricks\bin\Windows\Debug\Bricks.exe
+E:\Bricks\Bricks\bin\Windows\Debug\Bricks.pdb
+E:\Bricks\Bricks\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Bricks\Bricks\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Bricks\Bricks\bin\Windows\Debug\SharpDX.dll
+E:\Bricks\Bricks\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Bricks\Bricks\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Bricks\Bricks\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Bricks\Bricks\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Bricks\Bricks\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Bricks\Bricks\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Bricks\Bricks\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Bricks\Bricks\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Bricks\Bricks\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Bricks\Bricks\bin\Windows\Debug\SharpDX.xml
+E:\Bricks\Bricks\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Bricks\Bricks\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Bricks\Bricks\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Bricks\Bricks\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Bricks\Bricks\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Bricks\Bricks\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Bricks\Bricks\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Bricks\Bricks\obj\x86\Debug\Bricks.csprojResolveAssemblyReference.cache
+E:\game design\Bricks\Bricks\obj\x86\Debug\Bricks.exe
+E:\game design\Bricks\Bricks\obj\x86\Debug\Bricks.pdb
+E:\game design\Bricks\Bricks\bin\Windows\Debug\Content\Images\ball.png
+E:\game design\Bricks\Bricks\bin\Windows\Debug\Content\Images\brick.png
+E:\game design\Bricks\Bricks\bin\Windows\Debug\Content\Fonts\pongFont.xnb
+E:\game design\Bricks\Bricks\bin\Windows\Debug\Bricks.exe
+E:\game design\Bricks\Bricks\bin\Windows\Debug\Bricks.pdb
+E:\game design\Bricks\Bricks\bin\Windows\Debug\MonoGame.Framework.dll
+E:\game design\Bricks\Bricks\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\game design\Bricks\Bricks\bin\Windows\Debug\SharpDX.dll
+E:\game design\Bricks\Bricks\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\game design\Bricks\Bricks\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\game design\Bricks\Bricks\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\game design\Bricks\Bricks\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\game design\Bricks\Bricks\bin\Windows\Debug\SharpDX.XInput.dll
+E:\game design\Bricks\Bricks\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\game design\Bricks\Bricks\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\game design\Bricks\Bricks\bin\Windows\Debug\MonoGame.Framework.xml
+E:\game design\Bricks\Bricks\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\game design\Bricks\Bricks\bin\Windows\Debug\SharpDX.xml
+E:\game design\Bricks\Bricks\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\game design\Bricks\Bricks\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\game design\Bricks\Bricks\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\game design\Bricks\Bricks\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\game design\Bricks\Bricks\bin\Windows\Debug\SharpDX.XInput.xml
+E:\game design\Bricks\Bricks\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\game design\Bricks\Bricks\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\game design\Bricks\Bricks\obj\x86\Debug\Bricks.csprojResolveAssemblyReference.cache
+E:\game design\Bricks\Bricks\bin\Windows\Debug\Content\Images\BackR.png
+E:\game design\Bricks\Bricks\bin\Windows\Debug\Content\Images\BlackPaddle.png

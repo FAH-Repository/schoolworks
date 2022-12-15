@@ -1,0 +1,22 @@
+last quiz
+
+problems with content based email filters?
+too slow
+easy for attackers to evade    This one, can change content of message carrying spam, embed messages in images etc
+words are difficult to parse
+
+
+advantages of SYN cookies?
+can be applied in the network "core"
+prevent server from exhausting state after TCP SYN        This one
+defends against UDP flooding attacks
+
+
+If a telescope is monitering 2^1 ip addresses
+backscatter is 100,000 pps
+what is the total attack rate? roughly 6.5 billion pps
+
+
+
+
+

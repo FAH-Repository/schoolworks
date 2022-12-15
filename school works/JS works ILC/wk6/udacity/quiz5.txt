@@ -1,0 +1,42 @@
+Quiz 5
+Examples of variable bit rate traffic?
+Audio? no
+video? yes
+data transfers? yes
+
+
+Token bucket shaper:
+size = 100KB
+p = 10 packets per second
+packet size = 1KB
+answer in kbps: 880 kbits per second
+
+Rsus= 10Mbps
+r= 15 Mbps
+size = 1 MByte
+how long can snder send at a higher rate answer in seconds:
+  8/(15-10)= 1.6 seconds
+
+packet    flow 			which can provide what info?
+yes	  no		timing information(packet level)
+yes	  no		packets headers
+yes	  yes		number of bytes in each file
+
+
+whch http header field indicates the client software?
+accept encoding
+get
+user-agent          this one
+host
+
+benefits of caching?
+reduced transit costs for local ISP         yes
+more up to date content			    no
+improved performance for local clients	    yes
+
+
+why do ISPs want to peer w/CDNs?
+lower transit costs			yes
+beter security				no
+better perfromance for customers	yes	
+or more predictability?			no

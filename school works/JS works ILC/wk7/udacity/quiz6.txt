@@ -1,0 +1,73 @@
+quiz 6
+examples of control plane operations?
+computing a forwarding path that satisfies a high level policy	yes
+computing a shortest path route tree				yes	
+rate limiting traffic						no
+load balancing traffic based on a hash of source IP		no
+authenticating a users device based on a MAC address		yes
+
+
+
+reasons for sperating control and data planes?
+no single point of failure 			 no
+ability to scale to much larger networks 	 no
+independant evolution of data and control plane  yes
+sperating vendor hardware from control logic	 yes
+easier reasoning about network behavior  	 yes
+
+
+how does control/data seperation make managing data centers easier?
+moniter and control routes from a central point			yes
+ability to migrate VMs without renumbering host addresses	yes
+requirement for fewer switches					no
+auto load balance						no
+
+
+how to cope with scalability?
+eliminate redundant data structures				yes
+only perform control operations for a limited # of operations	yes
+send all trafic through the controller				no
+cache forwarding descisions in switches				yes
+run multiple controllers					yes
+
+
+when to use pox?
+class project		yes
+large data center	no
+university research 	yes
+
+
+what types of problems arise from inconsistent "writes" of network state?
+inablity to respond to failures		no
+forwading loops 			yes
+a flood of traffic at the controller	no
+security policy violations		yes
+
+
+what are some methods of coping with inconsistency?
+different controllers for different switches
+keeping a "hot spare" replica
+keeping the old and new state on the routers/switches  only this one, with two phase commits
+relying on the routers toresolve the conflicts
+
+
+what are some motivations for virtual networking?
+easier troubleshooting						no
+facilitating research/evolution by allowing co existence	yes
+better forwarding performance					no
+adjusting resources to demand					yes, because they can be scaled as demands change
+
+
+
+which of the following are acharcteristics of network virtualization?
+allowing multiple tenants to share underlying physical infrastructure	yes
+controlling behavior from a centrillized controller			no, from SDN
+seperate logical and physical networks					yes
+seperating data and control planes					no, from SDN
+
+
+
+
+
+
+
